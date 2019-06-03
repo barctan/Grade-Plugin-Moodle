@@ -7,5 +7,6 @@
   </head>
   <body>
     <p>Hello World! Inital commit!</p>
+    <script src="js\func.js"></script>
   </body>
 </html>
